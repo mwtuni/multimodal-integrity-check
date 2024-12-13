@@ -35,5 +35,3 @@ This example helps verify whether the model uses all inputs effectively or hallu
 - **Improve Model Reliability**: Guarantee that your multimodal GenAI models correctly process and integrate all available input types.
 - **Debugging Support**: Helps developers pinpoint issues related to multimodal data processing, enabling them to improve the performance and reliability of their models.
 
-## About the Project
-This methodology was initially developed as part of the **Concept Discovery** project, where a case involving Jenkins was used to illustrate the potential for hallucination in multimodal AI. By moving this case to **Multimodal Integrity Check**, we aim to provide a standalone tool for detecting and mitigating these issues in any multimodal AI application.
