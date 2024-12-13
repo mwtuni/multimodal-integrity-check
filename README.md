@@ -12,6 +12,7 @@ In this project, we demonstrate this methodology using an example case that incl
 - **Text Prompt**: A question asking about the character in the image, without explicitly referring to any contextual details provided by the RAG data or image.
 
 This example helps verify whether the model uses all inputs effectively or hallucinates missing details, providing a means to ensure the model's multimodal functionality is sound.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwtuni/multimodal-integrity-check/blob/main/multimodal_integrity_check.ipynb)
 
 ## How It Works
 
